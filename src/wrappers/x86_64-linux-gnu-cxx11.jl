@@ -66,14 +66,18 @@ type_translator_path = ""
 type_translator = ""
 
 
+# Inform that the wrapper is available for this platform
+wrapper_available = true
+
 """
 Open all libraries
 """
 function __init__()
-    global artifact_dir = abspath(artifact"libpolymake_julia")
+    # This either calls `@artifact_str()`, or returns a constant string if we're overridden.
+    global artifact_dir = find_artifact_dir()
 
-    # Initialize PATH and LIBPATH environment variable listings
     global PATH_list, LIBPATH_list
+    # Initialize PATH and LIBPATH environment variable listings
     # From the list of our dependencies, generate a tuple of all the PATH and LIBPATH lists,
     # then append them to our own.
     foreach(p -> append!(PATH_list, p), (CompilerSupportLibraries_jll.PATH_list, libcxxwrap_julia_jll.PATH_list, polymake_jll.PATH_list,))
@@ -83,7 +87,7 @@ function __init__()
 
     # Manually `dlopen()` this right now so that future invocations
     # of `ccall` with its `SONAME` will find this path immediately.
-    global libpolymake_julia_handle = dlopen(libpolymake_julia_path)
+    global libpolymake_julia_handle = dlopen(libpolymake_julia_path, RTLD_LAZY | RTLD_DEEPBIND)
     push!(LIBPATH_list, dirname(libpolymake_julia_path))
 
     global polymake_run_script_path = normpath(joinpath(artifact_dir, polymake_run_script_splitpath...))
@@ -100,4 +104,3 @@ function __init__()
 
     
 end  # __init__()
-
