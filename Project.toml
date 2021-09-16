@@ -1,6 +1,6 @@
 name = "libpolymake_julia_jll"
 uuid = "4d8266f6-2b3b-57e3-ad7a-d431eaaac945"
-version = "0.4.306+0"
+version = "0.4.307+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -14,6 +14,6 @@ FLINT_jll = "e134572f-a0d5-539d-bddf-3cad8db41a82"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "1.6"
+julia = "1.7"
 polymake_jll = "~400.400.2"
 FLINT_jll = "~200.800"
