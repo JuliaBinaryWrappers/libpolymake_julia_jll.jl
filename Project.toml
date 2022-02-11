@@ -1,6 +1,6 @@
 name = "libpolymake_julia_jll"
 uuid = "4d8266f6-2b3b-57e3-ad7a-d431eaaac945"
-version = "0.7.0+0"
+version = "0.8.0+0"
 
 [deps]
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
