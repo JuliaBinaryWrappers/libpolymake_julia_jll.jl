@@ -1,465 +1,465 @@
 [[libpolymake_julia]]
 arch = "aarch64"
-git-tree-sha1 = "b86f9fbd91d229d686f3491e8a70af00c5b3e8c5"
+git-tree-sha1 = "343bbcfe9660bfe0f00f56d30e237826776923d1"
 julia_version = "1.10.0"
 os = "macos"
 
     [[libpolymake_julia.download]]
-    sha256 = "2187c13188b9f3fde4b328964bb1edfbbed71ac91f09b0b46bd515547ef53b05"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "545262eb7eab92b8deb03bd6c08401019352d58ca94a0d9a85b75cd793f2b4f1"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[libpolymake_julia]]
 arch = "aarch64"
-git-tree-sha1 = "418168b8a1f237e880675e13340139b0f5a240c6"
+git-tree-sha1 = "9ee9dd09fe9bd809ba4fc77ecb0ef08f353185a6"
 julia_version = "1.11.1"
 os = "macos"
 
     [[libpolymake_julia.download]]
-    sha256 = "fedfe34380da064e3bb4896b363e9057c00b33abc84833ce868af3f545b246c8"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "300d4345fef7ae66b0e40a4c993bb778ebad80dae3a8691f8748f1713f0bd513"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[libpolymake_julia]]
 arch = "aarch64"
-git-tree-sha1 = "0ab1c88f5c222062ef608a22a6c0a46d55bd57cb"
+git-tree-sha1 = "731b458a04897521708911b9a0804b30cd95bb66"
 julia_version = "1.12.0"
 os = "macos"
 
     [[libpolymake_julia.download]]
-    sha256 = "5b6999d68a6148b61703eda13ed49145badb060686b87f410d4b329f94d820a9"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "a775fd5a1f4f078dfba9dd2091e19779ccf93367cd3683d07de75cb63a542b04"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[libpolymake_julia]]
 arch = "aarch64"
-git-tree-sha1 = "e919b02f1769871fa205e91c229fa6bef5d7af54"
+git-tree-sha1 = "d66282097ebf15243202e78398925b7f95d1fb79"
 julia_version = "1.13.0"
 os = "macos"
 
     [[libpolymake_julia.download]]
-    sha256 = "7377a67d188ca0a43791d568865bf967297f9c3fdbca2fd252cefb3a3deee3c9"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+    sha256 = "27da5fb4a554afe0d94f32f9a420d194b5aefb01294a9f269577b9eb06f93737"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[libpolymake_julia]]
 arch = "aarch64"
-git-tree-sha1 = "c18fd359c6f71827ba3f6796f5a8c4927b2902af"
+git-tree-sha1 = "5a9f8229d80bdd7e46c7e4a58e16351dacc36c95"
 julia_version = "1.14.0"
 os = "macos"
 
     [[libpolymake_julia.download]]
-    sha256 = "ed6b8354355a3aac6c74d5ba82c024f397ef563d0f6a588a4ea061a881a98a9b"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
+    sha256 = "1c27e81264ba6aee11b5a72e2c0b12cfaec027bad19b72bcbdba3015b8f4e835"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
 [[libpolymake_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "52ef6492dc8b01e86d7289ea6f8ccb4e924d78de"
+git-tree-sha1 = "b3c88ca6f33323553403e1646c001c90919270b7"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "5577a8d074cb121c2a3b5a08b0708dcb3563b1dc64fac248bc56683b18d26e68"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "5d7abfd5d7f138c277600d7b273a1770518850745ec8b7a45515eec769a1621f"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[libpolymake_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dc7cfc6da268f028bb71c8d0c269cd7cee3c5f56"
+git-tree-sha1 = "f78a7a1e71df43e5e22bbeec771c3b1332a5bd58"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "80b91cdfb72953fcd5e07dbbf2bcca020257a8d106de18e8b53f35d85092d06b"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "267036d8d3e73bc51132b11fc42c5470bbbe418d1c55b72cd4146bada0d0c30b"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[libpolymake_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1256613a0b25e140d40ba26e4260a54fa15758f2"
+git-tree-sha1 = "45a2485a9985a0f70bed6419e322232a1dcdb49c"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "d3d69dc8f34d7f8f0247f4e5cae74cd43c4785ee529a7d3b63fc0571fc0a99a5"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "5b5adc3cc005c4c9b8f41800950b95433c6b4b10251d8ac2330b16d0fe102aa5"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[libpolymake_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b5dcdb9869b304654f0d24b8bff54546790e59e3"
+git-tree-sha1 = "10b69add09e576c5618528eddbd7f8fbd251a130"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "33ff1510256c5de70c62e5cd3419ef5f72ca8069817c890360b01fd64b1d4136"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "80e48be6cd4c5bb8c9cdfa03e9bfde3ccf6fdd9104f799b3d6c4bc02f9924286"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[libpolymake_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "65657a4f5c277776827158e88c7517038c7b9364"
+git-tree-sha1 = "56ca2ee71e5026e967fd48c5ac1b18febddf4cc4"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "aef3650e9ca061a08002be755d17bc6f5f95eb3e341b672f955c666597bb5360"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "0ae2c880387be75fe0bc91de0d5c9eff2a8c966433d8864f66b26acc6bd046cb"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[libpolymake_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "13d13c26961f39426022851a7ed07a6f8dbb2bdc"
+git-tree-sha1 = "c7901ea5ac2a6c3f7ea42edd9f3fdbd7c8a2ad9f"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "51c040154a4d0e5b6cb57ca52e5ecdd921a4e8988b36607d4d9869c4c650d034"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "17fc2b331b231e41cfa395d244e30d5a19a0b672d9a6fb5caaf6d72bfc98fe8d"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[libpolymake_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a8b1b665c43e4f0d73888f0b66016a92f8bb5a3a"
+git-tree-sha1 = "8c819907cb0b6ae72149fddc04244c300b13aada"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "b66533c404f1a309529cd800dc1dd76a708c2b3290aff3d379268ee05d7b4da6"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "39c68c81e75c0894b947df312b25c918e7a2a6c87247a0170f4d2b4a44af2f1c"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
 [[libpolymake_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "265c5cdd8c126a74a9b1cf04389a758e8b4b936f"
+git-tree-sha1 = "0bc8c9589c6635cff9dd9573c528e4d73dd5f7f3"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "9d1c39de9137e8a237b0cdf4d750e0803997f3f813bcab617962a5817eef8775"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "404a3cb75beee9852687bdfc745c77949a289e781ad421407ea7c6c47b691e3f"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[libpolymake_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8908aea49b2aa2d7399f86494c1e895fca40993c"
+git-tree-sha1 = "43731a1c1ccd209dce697f3314ff766a68b776d6"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "0e664dbd782d7ff5133d7cc8f78d822b3cdacbaf9ca8b45f4343dd5ba8f65daa"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "fc24c1488513144a803b03daa3b7e8b5d98a0bbba2e6464ec18dfac357478c22"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
 [[libpolymake_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d994fbd126fb3516084201ac431d2fdf86a73cd9"
+git-tree-sha1 = "68766e63dae5b4e5c73b576a315fa5818f69f99a"
 julia_version = "1.14.0"
 libc = "musl"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "972e6fa54095e88d05b474b2494a43d924e89984686c1502fbd261eddbc2a597"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.aarch64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "776a75fc2b1cf4868ea525bb44fdc8b050ffa916b76246bf0b6a0ac8296ebcaa"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.aarch64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
 [[libpolymake_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7e95294a0f74413369f0ccb773da74843cd64bb2"
+git-tree-sha1 = "0516c8bce5ee76b5b74af55bc088a14be2af6d16"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "e7d608d4e5ad0f030a718744515c4bebdd09d57dc896f3c8b1b5d18285b612c4"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "9843423e19c510c050a8631e595784a9719f8af58e04bc23599e67c258b4fe67"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[libpolymake_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b6fc01d377d9c492cd3cd73faba088d32c990c86"
+git-tree-sha1 = "28bea0840fc53b20ed6720cd38cd5070c1493654"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "fafcda2e51be994fe14f0b8fda03123d1cee44702188a9b8e0c78f072eb97e3b"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "d701e4b6d35b04e5dfe2541030d135537fbf3cce4ab450d530bc5a6025267835"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[libpolymake_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "329984a3713c081d885ce0e4d74ae0c4dbd36728"
+git-tree-sha1 = "ae6e5d30c20574ec4630eceda701399fcbc20028"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "5a9f6c4fe42619f59496824feb594cf8528d46c53d9bed82ba85cb4e517f0461"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "0fbcd7b01fff4ad3684b2c676de20f759e0b6c2cfa9d73f6340a8e153854284b"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[libpolymake_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "38cc128b8ad39c9e06d63f3af6f1116f92950e67"
+git-tree-sha1 = "fd07a3e39033141d09e3fa79dfd468b5b7e9d4e3"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "87df0eeddcd51b3cc082da278db553cefee949d8f08310b416503e883a954925"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "99c03672bdf131b52d8e9a2f8d1b4b24f2401c16c5fcd3e84f0076827575cb24"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[libpolymake_julia]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e07932611c778503b8d3365f130367c125eeb673"
+git-tree-sha1 = "bf75ebe97add6c122959a128e9be3b122b3b8bfb"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "1a47c359d653b4fb0d3dd69859366c8ee6f41ec0a6a621eb8e789b0d8cdf1435"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.i686-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "cdd8ab33204eb01e65575ee03c5ef7953bc5231f4e9dd65036c948a3e979a714"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.i686-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[libpolymake_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e8b906a14e1a709d8ed08616dd71a27d10827c1a"
+git-tree-sha1 = "b36c57d3ec5601294706df0621db90a95f4fa016"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "cd3add50fe3c54b9cb500b245084d52bc4e79efd9a8048b84b67e810b8bb584f"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "20670cf560543463618b8b805a8b883de465e69b2f1fc304df5ad7e210933a38"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[libpolymake_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "090d7d72997afd10f5312389d1f60fd7efde959f"
+git-tree-sha1 = "3765e36ba63a03756cdcc2e8a46a7dbb5bdd3f02"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "488debe6f27a8e3d3c63dd3eede2093c42d945c933f724bffdf87d4510cbc4a6"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "277056052a7625177c1986e1d3d461f80c4bf62be4514fd20e8e399412802294"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[libpolymake_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b1072b1dd179d51ab17a89b5c500880f0fd3c835"
+git-tree-sha1 = "4d37e6e0794caf78d898cf51156053c435224ecd"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "7f3f7ada33b69e06af906dae329773fa0f6cf7eebacfb920d6e0a5db6ab0f923"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "22c908d032704e6def9cafde69d577b3e9050ee41204fe5e8785e35b85be70bf"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[libpolymake_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4af355400f4ba89b42d121892f7b243062df0c21"
+git-tree-sha1 = "e57e33a5f5f1a8afe98edbb0405aa08fc0427ae3"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "d919e9a68f91e6f45b70c41bfdd105099f1be3531d62596107ab5f5e7efcc3ee"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "7d538c615558fd1925343d2162b7e284edfac36c2fe6e2c94bed05909b168e91"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[libpolymake_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2030ae4af1b1695bd9a4668856b84fc0e5939691"
+git-tree-sha1 = "938f98de2b8b8040962a7acb68d26d1367b7ae14"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "00174504b5a5537d80cc81212394970153abbe2671675fc111efb24c986ff7f0"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.powerpc64le-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "ee96891b1da61c6c9a11f53f15362d274918d00f9a360265a0754e4a36ddb2a2"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.powerpc64le-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
-git-tree-sha1 = "938d714c68734a22318ab9c22e8883b65490105f"
+git-tree-sha1 = "4dc4f755bd2a3fe3b609f773d09a6a5c2fc2c3a2"
 julia_version = "1.10.0"
 os = "macos"
 
     [[libpolymake_julia.download]]
-    sha256 = "36792d2b270e872664b19c4b22dcddad3218f7929da1ab9c2200537c6ed0c411"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "52714b08af61bae860a8742de939ece67e6959229c8937ab9a7d63278d9ac639"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
-git-tree-sha1 = "31821c2c4f075037d5e49627837861da3aa6cce7"
+git-tree-sha1 = "fb77636559c0b40c50d875ad0a5047116cc04f15"
 julia_version = "1.11.1"
 os = "macos"
 
     [[libpolymake_julia.download]]
-    sha256 = "2f5b09d8e7f45957a99d43a54b70310a9af7c960ea39ce0a599be246c04ea8ca"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "af63b445ede129080c5a0bc2b04e6c92ccaa915261bee1b82c31e62f193b8a12"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
-git-tree-sha1 = "c1b8d6af27c49c74140791a02547519f36abd81f"
+git-tree-sha1 = "f603ad9e8219ede8cf67ff0b63e4bb4db36c396b"
 julia_version = "1.12.0"
 os = "macos"
 
     [[libpolymake_julia.download]]
-    sha256 = "0de0cb095433042906ccadc7c79976e719a901c300e623fa99779144e84e5e36"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "a3ce3b3df2040bd21b8ba4c779a2748f70840f58e7fc65709796db072e616160"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
-git-tree-sha1 = "343b3a4ac3c51b2ec11b3574c519168c86062c2f"
+git-tree-sha1 = "138de776fbd72e86ebbebee8c557f47b0d57c19f"
 julia_version = "1.13.0"
 os = "macos"
 
     [[libpolymake_julia.download]]
-    sha256 = "fdbeac1fb3d389c06173b86eb4c5723c5fc531d79508f3cb28fd7eb6d3da46a2"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+    sha256 = "879607b72d3230de89bf6522987c9c5f9448cef654b7329eb0fc83d046c0e867"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
-git-tree-sha1 = "397d9154fcccdf80bddd745e51e3fd3f24f928f6"
+git-tree-sha1 = "a8575e693597f9c893ecb909e92befccfce61f08"
 julia_version = "1.14.0"
 os = "macos"
 
     [[libpolymake_julia.download]]
-    sha256 = "bcbe5d51bf62f1b455bfe5eafa5f3f8f77fcbc720bae3a399cd775cb1efdc562"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
+    sha256 = "32c335f65ee9062ca597184a9cf49b4ca36e63b2b1de5fca4ebd15d654adb5b4"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3d00e8127bb721882c599bcd49028003bbb324f9"
+git-tree-sha1 = "e2030b3a0f00503cc608437b0450a71c2beeeeb1"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "fc9e002a48a649e039ee85cc4ff5071a58f92453e3bdc9f5e3994b3df3577c2b"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "3dd054ce72e3f5e906fdf02719c2fb6e55872cafbacd4a33df7020585866ddd9"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "794c983064bda8fbab4b6a19748b15a658fb4948"
+git-tree-sha1 = "869db2771d2491a70371cc4d2eeb1f312a9dba62"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "d0420f5aaeb3d961a4546aee53f81aca1c85787ec14ceb2462a04a8beac65e82"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "85bfe87cd777800e42df9cc7ae5f24973a0b6fd44404131e9e64aa819ca2d2cc"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2dcacabb3e5c85874ba5a560753c154f3e6fc97c"
+git-tree-sha1 = "8eb58c59e7b170a21d34f1172b41532ba44277d3"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "774c84f616cc4ff22521967f41faf567afdbdc3c82dd42a540ca7d07cce6b344"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "20eb158e929dfc0d0066b9b78decca5042c9e6a934a603064379af09bdc3723e"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "776c0b41ff8a1c69c01a035abd570a53a648b344"
+git-tree-sha1 = "5c65d65d41be5fef8f9d3d7c2fc9ecff937616c5"
 julia_version = "1.13.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "28269107a8c23f79c7c162cc601880e2cf89b28f57f194ef55f69cc86b6cc824"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "76ff735f4a00e6192ba18ab3d98608e27bb4c9dd40eb03bc29b2b0e8469075e0"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8697ca784abfd3e85d477136992f316fc63d773e"
+git-tree-sha1 = "fc45aeda19fc02c0ee8aa167ada05f0598239c64"
 julia_version = "1.14.0"
 libc = "glibc"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "8a026e562054960484e66e3b249e780c9e7a3738d3631f0e765309ed54be17fb"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "2de554dd2253ecbbd4ec7f6ee537498321d988acb35ced40ac138be0d8b44456"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "953290758a83230c771ce466f9df23e28fd621cd"
+git-tree-sha1 = "5aaa0ef0f65cf77c3e058acad163f114e0ce4927"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "7c165f8b676dbb8392ec51ad7c2e7a4e372e2a8a1fec9caa52b4e62986c2b953"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "c4f30dc53572c1d936e00c0c08d7e364496b5643d76f8da3ac1f07b4a0480b3c"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7c43da7813578840cf2e6ab2ed9fa7fee976aea8"
+git-tree-sha1 = "99f74f3f0ba1b81021a5f6f4308876a7a8b585bf"
 julia_version = "1.11.1"
 libc = "musl"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "5febe7cf9dc0c68429e73b89762af9d1918472c5a0530f2716152f8aab30070b"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "e1e08903d671bcd3ac956c50db69507726f94affc8dbb23c96d59d927cd97fda"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4c57801148185c6d5575f8cbe03be0a130f9d4e5"
+git-tree-sha1 = "bac63e50e8b53ca9afdcc9546c917ce74faec52b"
 julia_version = "1.12.0"
 libc = "musl"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "b62e737e44ca9588d0c73313dd759a2e36fd5e2ee5872f4be72bc3e33d1ab294"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "eae028dd5e326a65d20ad534e9217ce6c2cc2c4bf4ed70fff0a2afeac5049bd1"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3fb6a57aa4cf415a0b756d2529eb8df2cd1955be"
+git-tree-sha1 = "3c7fa6fa9dab9fbe48d25805fcdb2ae369d8ae34"
 julia_version = "1.13.0"
 libc = "musl"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "a7c250b0b477249a0414c6dfa133356b532e2fa2e3252c89638ebd651ac79077"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+    sha256 = "c33f822806cbed62cc3cb331ee39c7e7996173acdaf5a74388023986fbf2ffe2"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4fc297ee9f89abedb25f431e1b7eed9a0477c1fc"
+git-tree-sha1 = "b8f0833e73c29d54e570b2044a8a22ce05d4046c"
 julia_version = "1.14.0"
 libc = "musl"
 os = "linux"
 
     [[libpolymake_julia.download]]
-    sha256 = "489fe004e774fd121b784b68bf46b6f15a7b91e5aaa7f23b0a72303f2020a23b"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+    sha256 = "41bfa62178c33204613d71332390aa28211237fdfab3a3e4428579ff45422b25"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
-git-tree-sha1 = "b5d7027f7085c040edd2ba179105b72bfea8ff5c"
+git-tree-sha1 = "4deff9ef370f6192e882acbb5be0e4f516d89829"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[libpolymake_julia.download]]
-    sha256 = "36950178f8b15c2a640006d3f7c7f1db27dafd9cf1f1e1c88baac1296da67f1e"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "b49728ab782d1872af9b73b3640a463027afd2b963f254501e0e1b6e6b129279"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
-git-tree-sha1 = "470f193ec8bfb93d867d73d35e5afeec095414f4"
+git-tree-sha1 = "e8213391a0fbae8ae42ac412a4663cab07a52923"
 julia_version = "1.11.1"
 os = "freebsd"
 
     [[libpolymake_julia.download]]
-    sha256 = "bc8ed5f625216ba4ca5e8c72109d797a2bfbfbc06ea09e4e29b6ee142a28097c"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
+    sha256 = "bc75b3ef3d5a2c3ffa1cd57ee9d2a5d4400fca3b5e8b4d3387f750a76b0fd63a"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
-git-tree-sha1 = "ffde6017c42e941c7e5f8f324db52fc2324b5759"
+git-tree-sha1 = "dce529e22bf87a21fbb257cf9a6027b51ceb7233"
 julia_version = "1.12.0"
 os = "freebsd"
 
     [[libpolymake_julia.download]]
-    sha256 = "885a5223da645a706b777905a5cfb4dd14f584887fab2ffa8a66d1298da26c55"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+    sha256 = "02a63e51a9c21cdc3ebb17ec427062b367374be0da8e8d0b4a23a5e78674bd56"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
-git-tree-sha1 = "962e85a700b3625e490a8dafb77b83c84f941859"
+git-tree-sha1 = "f8dd2f14e0c38ce93d31b791f163c6639c805d78"
 julia_version = "1.13.0"
 os = "freebsd"
 
     [[libpolymake_julia.download]]
-    sha256 = "4237755a3080d221409743b39c336293105bc23118b73bb290917c982b80fd67"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+    sha256 = "6ffbc5b1000e310b39834ae5f283d1aca859f351c693ef6dfd85638c07363318"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
 [[libpolymake_julia]]
 arch = "x86_64"
-git-tree-sha1 = "c0e123c33bcbef7752cb623c12b06cd40a8cec7a"
+git-tree-sha1 = "9cab131211c263b13d81811062bbeff7e000b9e1"
 julia_version = "1.14.0"
 os = "freebsd"
 
     [[libpolymake_julia.download]]
-    sha256 = "aa98a036d903fb6178f545f902723aeb22b126da2136dddde80b3c93d58dc5df"
-    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+0/libpolymake_julia.v0.14.7.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
+    sha256 = "82d5e999389035a6d86c23748226b0ea18f37e92d804b24f808e9a86a8ebde24"
+    url = "https://github.com/JuliaBinaryWrappers/libpolymake_julia_jll.jl/releases/download/libpolymake_julia-v0.14.7+1/libpolymake_julia.v0.14.7.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
